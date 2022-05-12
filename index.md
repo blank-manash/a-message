@@ -1,3 +1,5 @@
+[gimmick:theme](readable)
+
 # The world in the eyes of DES.
 
 You are writing your own notes, and suddenly you receive a notification. A harmless one, at it's look. Maybe it's something you already made plans of, or it's one of those where you didn't expect something to happen. But life isn't always like that, and the strokes of randomness keeps it's eyes open for all of us. And this time, it was me.

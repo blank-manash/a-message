@@ -10,7 +10,7 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/c4e38471/
 MDwiki	index.html	/^    <title>MDwiki<\/title>$/;"	j
-The world in the eyes of DES.	my-life.md	/^# The world in the eyes of DES.$/;"	c
+The world in the eyes of DES.	index.md	/^# The world in the eyes of DES.$/;"	c
 additionalFooterText	config.json	/^    "additionalFooterText": "Manash Baul<br> CSE, IIT Kanpur 2022 <br><br>",$/;"	s
 anchorCharacter	config.json	/^    "anchorCharacter": "#"$/;"	s
 lineBreaks	config.json	/^    "lineBreaks": "gfm",$/;"	s
